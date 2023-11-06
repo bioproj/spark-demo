@@ -48,6 +48,11 @@
             <version>${spark.version}</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>org.disq-bio</groupId>
+            <artifactId>disq</artifactId>
+            <version>0.3.8</version>
+        </dependency>
     </dependencies>
 
 </project>
